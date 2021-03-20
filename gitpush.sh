@@ -1,3 +1,4 @@
+# 新規リポジトリ作成
 echo "# php-book-app" >> README.md
 git init
 git add .
